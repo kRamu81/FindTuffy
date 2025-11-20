@@ -121,16 +121,29 @@ FindTuffy/
 
 ---
 
-🤝 Contributing
-We welcome all contributions to improve FindTuffy.
+---
 
-💡 How to Contribute
-1. Fork this repository
-2. Create a new branch (e.g., feature-new-ui)
-3. Make your changes
-4. Commit and push
-5. Create a Pull Request
-6. Wait for review & merge 🎉
+## 👥 Contributors
+
+Thanks to all the amazing people who have contributed to FindTuffy!
+
+<a href="https://github.com/kRamu81/FindTuffy/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=kRamu81/FindTuffy" />
+</a>
+
+---
+
+## 🤝 How to Contribute
+
+Want to improve this project?
+
+1. **Fork** this repository  
+2. Create your feature branch  
+3. Commit your changes  
+4. Push the branch  
+5. Open a **Pull Request**
+
+Your contributions make FindTuffy better for everyone! 🚀
 
 ---
 
