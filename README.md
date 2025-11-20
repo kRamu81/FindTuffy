@@ -109,11 +109,15 @@ FindTuffy/
 └── LICENSE
 ```
 ---
-🚧 Current Status
-🔨 Project planning
-🎨 UI design in progress
-📝 Backend architecture preparation
-🕸️ Scraper scripts will be added soon
+🚧 Current Status 
+
+🔨 Project planning 
+
+🎨 UI design in progress 
+
+📝 Backend architecture preparation 
+
+🕸️ Scraper scripts will be added soon 
 ---
 
 🤝 Contributing
@@ -142,6 +146,7 @@ Then start contributing or using the project your way.
 📫 Contact
 
 Project: FindTuffy
+
 Goal: Helping students find internships easily
 
 If you want, I can also add:
