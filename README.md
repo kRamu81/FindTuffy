@@ -128,7 +128,8 @@ FindTuffy/
 Thanks to all the amazing people who have contributed to FindTuffy!
 
 <a href="https://github.com/kRamu81/FindTuffy/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=kRamu81/FindTuffy" />
+</a>
+<a href="https://github.com/VMahamadhBasha/FindTuffy/graphs/contributors">
 </a>
 
 ---
@@ -173,3 +174,4 @@ If you want, I can also add:
 🎨 Custom banner/logo  
 
 Just tell me!
+
